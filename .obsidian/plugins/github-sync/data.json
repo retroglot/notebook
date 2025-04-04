@@ -1,0 +1,7 @@
+{
+  "remoteURL": "git@github.com:retroglot/notebook.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true
+}
