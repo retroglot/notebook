@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +185,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "813ecf1b4fd1583f",
+  "active": "afcef1a2643a53b3",
   "lastOpenFiles": [
     "2025-3/2025-3 小万神殿.md",
     "2025-3/2025-3 综合舞台艺术史：中国音乐史的缺失与尴尬.md",
