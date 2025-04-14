@@ -1,3 +1,7 @@
 {
-  "theme": "moonstone"
+  "theme": "obsidian",
+  "interfaceFontFamily": "微软雅黑,Cambria",
+  "textFontFamily": "微软雅黑,Cambria",
+  "baseFontSizeAction": true,
+  "baseFontSize": 10
 }

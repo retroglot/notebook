@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lecture-Notes/当代艺术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "当代艺术"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a8ba6ca79081fdef",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Lecture-Notes/当代艺术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "当代艺术 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Lecture-Notes/当代艺术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "当代艺术 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Lecture-Notes/当代艺术.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "当代艺术 的大纲"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "2e937115accd4c7f",
   "lastOpenFiles": [
+    "desktop.ini",
+    "Lecture-Notes/艺术家经纪与代理.md",
+    "Lecture-Notes/论文写作.md",
+    "Lecture-Notes/当代艺术.md",
+    "README.md",
     "电影/2025-03.md",
     "电影",
-    "README.md",
     "Lecture-Notes/音乐产权保护与管理.md",
-    "Lecture-Notes/论文写作.md",
-    "Lecture-Notes/艺术家经纪与代理.md",
-    "Lecture-Notes/当代艺术.md",
     "Lecture-Notes",
     "2025-3/2025-3 综合舞台艺术史：中国音乐史的缺失与尴尬.md",
     "2025-3/2025-3 电影语言的语法.md",
