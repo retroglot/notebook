@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "2025-2/2025-2 博弈与社会.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-2 博弈与社会"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "2025-4 检索力"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-4/2025-4 检索力.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-4 检索力 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-4/2025-4 检索力.md",
+                "file": "2025-2/2025-2 博弈与社会.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-4 检索力 的大纲"
+              "title": "2025-2 博弈与社会 的大纲"
             }
           }
         ],
@@ -171,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,18 +183,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "afcef1a2643a53b3",
+  "active": "ad8645076a463412",
   "lastOpenFiles": [
+    "2025-2/2025-2 基础会计.md",
+    "Lecture-Notes/艺术家经纪与代理.md",
+    "README.md",
+    "2025-4/2025-4 检索力.md",
     "2025-3/2025-3 小万神殿.md",
     "2025-3/2025-3 综合舞台艺术史：中国音乐史的缺失与尴尬.md",
-    "2025-4/2025-4 检索力.md",
     "Lecture-Notes/当代艺术.md",
     "2025-4",
     "电影/2025-03.md",
     "未命名.md",
-    "README.md",
     "Lecture-Notes/论文写作.md",
-    "Lecture-Notes/艺术家经纪与代理.md",
     "Lecture-Notes/音乐产权保护与管理.md",
     "Lecture-Notes/Lecture-Notes/音乐产权保护与管理.md",
     "Lecture-Notes/Lecture-Notes/论文写作.md",
@@ -205,7 +204,6 @@
     "Lecture-Notes/Lecture-Notes",
     "2025-3/2025-3 电影语言的语法.md",
     "2025-3/电影语言的语法.[乌拉圭]丹尼艾尔·阿里洪;陈国铎,黎锡译.2013-北京联合出版公司.md",
-    "2025-2/2025-2 基础会计.md",
     "2025-2/基础会计[第11版].朱小平.2021-中国人民大学出版社.md",
     "2025-2/博弈与社会.张维迎.2013-北京大学出版社.md",
     "2025-2/2025-2 市场调研与分析.md",
