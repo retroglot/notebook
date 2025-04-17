@@ -1,6 +1,6 @@
 {
   "remoteURL": "git@github.com:retroglot/notebook.git",
-  "gitLocation": "D:\\Git\\cmd\\",
+  "gitLocation": "C:\\Program Files\\Git\\CMD\\",
   "syncinterval": 0,
   "isSyncOnLoad": true,
   "checkStatusOnLoad": true

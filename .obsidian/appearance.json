@@ -1,12 +1,1 @@
-{
-<<<<<<< HEAD
-  "theme": "obsidian",
-  "interfaceFontFamily": "微软雅黑,Cambria",
-  "textFontFamily": "微软雅黑,Cambria",
-  "baseFontSizeAction": true,
-  "baseFontSize": 10
-=======
-  "theme": "moonstone",
-  "accentColor": "#625555"
->>>>>>> 23d7bfe9839aa7aaf34acfea6838850c37dd8d37
-}
+{}
