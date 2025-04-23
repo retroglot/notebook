@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b435cb95c9f80383",
@@ -156,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,13 +173,13 @@
   },
   "active": "a742f11769d181e4",
   "lastOpenFiles": [
+    "2025-4/2025-4 检索力.md",
+    "2025-4/2025-4 1985年以来的当代艺术理论.md",
     "2025-4/2025-4 中国思想史纲.md",
     "Lecture-Notes/艺术家经纪与代理.md",
     "Lecture-Notes/音乐产权保护与管理.md",
-    "2025-4/2025-4 1985年以来的当代艺术理论.md",
     "Lecture-Notes/当代艺术.md",
     "电影/2025-03.md",
-    "2025-4/2025-4 检索力.md",
     "2025-2/2025-2 博弈与社会.md",
     "2025-04-18.md",
     "2025-2/2025-2 基础会计.md",
