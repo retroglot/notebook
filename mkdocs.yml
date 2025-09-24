@@ -1,4 +1,0 @@
-theme:
-  name: material
-  features:
-    - mermaid  # 启用主题自带的 Mermaid 支持
