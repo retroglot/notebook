@@ -71,6 +71,13 @@ IP = 知识产权
 
 一首歌曲的构成，包括什么环节？
 
+## 歌曲制作流程图
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
 <div class="mermaid">
 graph TD
     A[歌曲] --> B[发行、出版]
