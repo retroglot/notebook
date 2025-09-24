@@ -1,3 +1,5 @@
+# 2025艺术法概论笔记
+
 # 一
 
 在课上以老师的身份要求一个同学离开教室，同学维护了自己的权利。
@@ -69,7 +71,7 @@ IP = 知识产权
 
 一首歌曲的构成，包括什么环节？
 
-```mermaid
+<div class="mermaid">
 graph TD
     A[歌曲] --> B[发行、出版]
     A --> C[歌手]
@@ -89,7 +91,7 @@ graph TD
     style G fill:#bbf,stroke:#333,stroke-width:1px
     style H fill:#bbf,stroke:#333,stroke-width:1px
     style I fill:#bbf,stroke:#333,stroke-width:1px
-```
+</div>
 
 ### 3. 肖像、名誉——人格权
 
